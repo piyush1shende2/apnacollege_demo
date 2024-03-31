@@ -1,4 +1,4 @@
 # apnacollege_demo
 this is my first git repo
 <br>
-author :- ddd
+author :- shardha (apne college)
